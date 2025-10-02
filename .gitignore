@@ -1,2 +1,4 @@
-# Project exclude paths
-/out/
+/.idea
+/build
+/.test
+/.nbproject# Project exclude paths
