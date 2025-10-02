@@ -1,4 +1,15 @@
-/.idea
-/build
-/.test
-/.nbproject# Project exclude paths
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# NetBeans
+nbproject/
+build.xml
+manifest.mf
+
+# Arquivos compilados
+*.class
+
+# Arquivos temporários
+*.log
+*.tmp
