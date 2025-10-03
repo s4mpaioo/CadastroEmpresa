@@ -1,7 +1,7 @@
 # IntelliJ IDEA
 .idea/
 *.iml
-
+.out/
 # NetBeans
 nbproject/
 build.xml
@@ -13,3 +13,4 @@ manifest.mf
 # Arquivos temporários
 *.log
 *.tmp
+
